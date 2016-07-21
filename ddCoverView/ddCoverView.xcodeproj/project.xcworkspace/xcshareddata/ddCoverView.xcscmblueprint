@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b5fa649d-eb6c-d943-a7e7-e1183e1e547b++6443" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b5fa649d-eb6c-d943-a7e7-e1183e1e547b++6443" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CEA2F7FB-73B7-4814-B136-9CA78D02A18F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b5fa649d-eb6c-d943-a7e7-e1183e1e547b++6443" : "ddCoverView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ddCoverView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ddCoverView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/tc-svn.tencent.com\/mqq\/mqq_mobileqqgame_rep",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b5fa649d-eb6c-d943-a7e7-e1183e1e547b++6443"
+    }
+  ]
+}
