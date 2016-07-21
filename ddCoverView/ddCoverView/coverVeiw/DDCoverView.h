@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ScrollableCoverView : UIView
+@interface DDCoverView : UIView
 
 @property(nonatomic, strong)UIButton* leftButton;
 @property(nonatomic, strong)UIButton* rightButton;

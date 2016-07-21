@@ -17,7 +17,7 @@
 		8A2CDF781D40DAB00008161F /* CoverViewForDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A2CDF751D40DAB00008161F /* CoverViewForDemo.m */; };
 		8A2CDF791D40DAB00008161F /* demo_background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A2CDF761D40DAB00008161F /* demo_background@2x.png */; };
 		8A2CDF7A1D40DAB00008161F /* dog_avatar@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A2CDF771D40DAB00008161F /* dog_avatar@2x.png */; };
-		8A2CDF7E1D40DABB0008161F /* ScrollableCoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A2CDF7D1D40DABB0008161F /* ScrollableCoverView.m */; };
+		8A2CDF841D40ED9E0008161F /* DDCoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A2CDF831D40ED9E0008161F /* DDCoverView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,8 +36,8 @@
 		8A2CDF751D40DAB00008161F /* CoverViewForDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoverViewForDemo.m; sourceTree = "<group>"; };
 		8A2CDF761D40DAB00008161F /* demo_background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "demo_background@2x.png"; sourceTree = "<group>"; };
 		8A2CDF771D40DAB00008161F /* dog_avatar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dog_avatar@2x.png"; sourceTree = "<group>"; };
-		8A2CDF7C1D40DABB0008161F /* ScrollableCoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrollableCoverView.h; sourceTree = "<group>"; };
-		8A2CDF7D1D40DABB0008161F /* ScrollableCoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollableCoverView.m; sourceTree = "<group>"; };
+		8A2CDF821D40ED9E0008161F /* DDCoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDCoverView.h; sourceTree = "<group>"; };
+		8A2CDF831D40ED9E0008161F /* DDCoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDCoverView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,8 +108,8 @@
 		8A2CDF7B1D40DABB0008161F /* coverVeiw */ = {
 			isa = PBXGroup;
 			children = (
-				8A2CDF7C1D40DABB0008161F /* ScrollableCoverView.h */,
-				8A2CDF7D1D40DABB0008161F /* ScrollableCoverView.m */,
+				8A2CDF821D40ED9E0008161F /* DDCoverView.h */,
+				8A2CDF831D40ED9E0008161F /* DDCoverView.m */,
 			);
 			path = coverVeiw;
 			sourceTree = "<group>";
@@ -189,8 +189,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A2CDF841D40ED9E0008161F /* DDCoverView.m in Sources */,
 				8A2CDF5B1D40C7340008161F /* AppDelegate.m in Sources */,
-				8A2CDF7E1D40DABB0008161F /* ScrollableCoverView.m in Sources */,
 				8A2CDF781D40DAB00008161F /* CoverViewForDemo.m in Sources */,
 				8A2CDF641D40C7340008161F /* ddCoverView.xcdatamodeld in Sources */,
 				8A2CDF731D40DA9B0008161F /* ViewController.m in Sources */,
@@ -341,6 +341,7 @@
 				8A2CDF6F1D40C7340008161F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

@@ -6,11 +6,11 @@
 //  Copyright © 2016年 tondy. All rights reserved.
 //
 
-#import "ScrollableCoverView.h"
+#import "DDCoverView.h"
 
 #define kNavigationHeight 64
 
-@interface ScrollableCoverView()
+@interface DDCoverView()
 {
     
 }
@@ -21,7 +21,7 @@
 
 @end
 
-@implementation ScrollableCoverView
+@implementation DDCoverView
 
 -(instancetype)initWithFrame:(CGRect)frame
 {

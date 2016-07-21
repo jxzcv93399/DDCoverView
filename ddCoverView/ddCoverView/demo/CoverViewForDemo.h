@@ -6,8 +6,8 @@
 //  Copyright © 2016年 tondy. All rights reserved.
 //
 
-#import "ScrollableCoverView.h"
+#import "DDCoverView.h"
 
-@interface CoverViewForDemo : ScrollableCoverView
+@interface CoverViewForDemo : DDCoverView
 
 @end
